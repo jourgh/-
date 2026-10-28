@@ -8,3 +8,4 @@
 * **Backend:** Node.js.
 * **База данных:** PostgreSQL.
 * **Инфраструктура:** Docker, GitHub Actions (CI/CD).
+Изменить
